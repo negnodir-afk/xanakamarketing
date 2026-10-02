@@ -111,7 +111,21 @@ Xanaka Travel продолжает эту роль: мы принимающая 
 
 ---
 
-## 8. Слоган: варианты
+## 8. Слоган
+
+**Утверждено:** система слоганов из концепции ChatGPT.
+
+| Роль | EN | FR (черновик адаптации) |
+|---|---|---|
+| Основной | **Experience Uzbekistan Differently.** | **Vivez l'Ouzbékistan autrement.** |
+| Дескриптор | Private & Small Group Tours in Uzbekistan | Voyages privés et en petits groupes en Ouzbékistan |
+| Эмоциональный | Discover the Uzbekistan Behind the Landmarks. | L'Ouzbékistan au-delà des monuments. |
+| Instagram | Silk Road • Culture • Hidden Places | Route de la Soie • Culture • Lieux secrets |
+
+История ханаки остаётся в бренд-истории и в тексте «о компании», а фраза *Every traveller is our guest /
+Chaque voyageur est notre hôte* — как подпись к разделу «О нас» и в приветственных материалах.
+
+### Архив: прежние варианты
 
 | # | EN | FR | Комментарий |
 |---|---|---|---|
